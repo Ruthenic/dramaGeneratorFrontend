@@ -1,15 +1,10 @@
-16544
-65/home/ruthenic/Coding/Web/dramaGeneratorFrontend/build/index.html1633653657455587353 0
-73/home/ruthenic/Coding/Web/dramaGeneratorFrontend/build/index.f80a141b.css1633653657457587341 0
-76/home/ruthenic/Coding/Web/dramaGeneratorFrontend/build/index.ff8df2a4.js.map1633653657463587304 0
-72/home/ruthenic/Coding/Web/dramaGeneratorFrontend/build/index.ff8df2a4.js1633653657457587341 0
-76/home/ruthenic/Coding/Web/dramaGeneratorFrontend/.github/workflows/build.yml1633653641929683626 0
-64/home/ruthenic/Coding/Web/dramaGeneratorFrontend/dist/index.html1633653783104811194 0
-76/home/ruthenic/Coding/Web/dramaGeneratorFrontend/dist/index.865d72cf.css.map1633647944633068296 0
-72/home/ruthenic/Coding/Web/dramaGeneratorFrontend/dist/index.6bf3cb3e.css1633649072006151692 0
-71/home/ruthenic/Coding/Web/dramaGeneratorFrontend/dist/index.5cb7de60.js1633653749763016645 0
-53/home/ruthenic/Coding/Web/dramaGeneratorFrontend/dist1633653783104811194 1
+16533
+76/home/ruthenic/Coding/Web/dramaGeneratorFrontend/.github/workflows/build.yml1633653814468618262 0
+64/home/ruthenic/Coding/Web/dramaGeneratorFrontend/dist/index.html1633726971500767612 0
+71/home/ruthenic/Coding/Web/dramaGeneratorFrontend/dist/index.5cb7de60.js1633726076745796334 0
+53/home/ruthenic/Coding/Web/dramaGeneratorFrontend/dist1633726971500767612 1
 61/home/ruthenic/Coding/Web/dramaGeneratorFrontend/src/index.js1633649251571384942 0
+59/home/ruthenic/Coding/Web/dramaGeneratorFrontend/.gitignore1633653896100117562 0
 98/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/caniuse-lite/dist/unpacker/agents.js1633631745803999000 0
 95/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/caniuse-lite/dist/lib/statuses.js1633631745803999000 0
 83/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/caniuse-lite/dist/lib1633631747646127959 1
@@ -1745,7 +1740,6 @@
 80/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/indexes-of/LICENSE1633482223640000000 0
 109/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/uncss/node_modules/postcss-selector-parser/dist1633631747622128066 1
 114/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/uncss/node_modules/postcss-selector-parser/README.md1633482222700000000 0
-76/home/ruthenic/Coding/Web/dramaGeneratorFrontend/dist/index.6bf3cb3e.css.map1633649072008151683 0
 111/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/uncss/node_modules/postcss-selector-parser/API.md1633482222700000000 0
 117/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/uncss/node_modules/postcss-selector-parser/node_modules1633649139039864974 1
 117/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/uncss/node_modules/postcss-selector-parser/package.json1633482222700000000 0
@@ -1899,7 +1893,7 @@
 92/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/console-browserify/.travis.yml1633482224308000000 0
 88/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/console-browserify/LICENCE1633482224308000000 0
 80/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/console-browserify1633631747134130249 1
-75/home/ruthenic/Coding/Web/dramaGeneratorFrontend/dist/index.5cb7de60.js.map1633653749769016608 0
+75/home/ruthenic/Coding/Web/dramaGeneratorFrontend/dist/index.5cb7de60.js.map1633726076755796424 0
 76/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/bytes/index.js1633482221092000000 0
 104/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/es-abstract/2016/FromPropertyDescriptor.js1633482225734999000 0
 77/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/bytes/Readme.md1633482221092000000 0
@@ -3809,7 +3803,6 @@
 104/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/@parcel/transformer-html/node_modules/.bin1633649138993865170 1
 87/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/htmlnano/docs/sidebars.js1633482221456000000 0
 80/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/lodash/_WeakMap.js1630377297249000000 0
-54/home/ruthenic/Coding/Web/dramaGeneratorFrontend/build1633653657463587304 1
 104/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/es-abstract/2016/RequireObjectCoercible.js1633482225734999000 0
 89/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/core-js/es/instance/sort.js1633482221651999000 0
 107/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/@parcel/runtime-browser-hmr/src/HMRRuntime.js1633482221361999000 0
@@ -5126,7 +5119,6 @@
 122/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/postcss-modules-values/node_modules/postcss/lib/postcss.d.ts1633482223415999000 0
 127/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/postcss-modules-local-by-default/node_modules/ansi-styles/license1633482223289999000 0
 81/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/lodash/fp/concat.js1630377297249000000 0
-92/home/ruthenic/Coding/Web/dramaGeneratorFrontend/dist/dramaGeneratorFrontend.94e89cdd.js.map1633647892893298022 0
 96/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/node-addon-api/tools/check-napi.js1630377299545000000 0
 132/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/postcss-modules-local-by-default/node_modules/ansi-styles/package.json1633482223289999000 0
 97/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/es-abstract/2020/thisBigIntValue.js1633482225734999000 0
@@ -5192,7 +5184,6 @@
 88/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/lodash/fp/findIndexFrom.js1630377297249000000 0
 90/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/@babel/traverse/lib/types.js1633482221644000000 0
 77/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/whatwg-encoding1633631747358129247 1
-72/home/ruthenic/Coding/Web/dramaGeneratorFrontend/dist/index.865d72cf.css1633647944625068331 0
 100/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/core-js/modules/esnext.number.range.js1633482221651999000 0
 101/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/css-tree/lib/definition-syntax/index.js1633482222111999000 0
 98/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/css-tree/lib/lexer/prepare-tokens.js1633482222111999000 0
@@ -6003,7 +5994,7 @@
 79/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/lodash/compact.js1630377297249000000 0
 93/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/caniuse-lite/data/regions/FK.js1633631745803999000 0
 131/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/postcss-modules-local-by-default/node_modules/color-convert/README.md1633482218289000000 0
-76/home/ruthenic/Coding/Web/dramaGeneratorFrontend/dist/index.70740ffc.css.map1633653749769016608 0
+76/home/ruthenic/Coding/Web/dramaGeneratorFrontend/dist/index.70740ffc.css.map1633726076753796406 0
 78/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/lodash/meanBy.js1630377297249000000 0
 92/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/core-js/features/math/clamp.js1633482221651999000 0
 108/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/to-regex/node_modules/define-property/index.js1633482219292999000 0
@@ -7268,7 +7259,6 @@
 76/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/ncp/lib/ncp.js1633482218381000000 0
 69/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/esprima1633631747170130088 1
 104/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/@popperjs/core/lib/utils/orderModifiers.js1633482217977999000 0
-77/home/ruthenic/Coding/Web/dramaGeneratorFrontend/build/index.f80a141b.css.map1633653657463587304 0
 100/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/core-js/modules/esnext.math.radians.js1633482221651999000 0
 79/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/mdn-data/index.js1633482222869999000 0
 106/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/core-js/internals/correct-is-regexp-logic.js1633482221651999000 0
@@ -7792,7 +7782,7 @@
 83/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/astral-regex/index.js1633482219765000000 0
 97/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/core-js/features/weak-map/upsert.js1633482221651999000 0
 91/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/@parcel/utils/lib/debounce.js1633482218936000000 0
-48/home/ruthenic/Coding/Web/dramaGeneratorFrontend1633653657445587415 1
+48/home/ruthenic/Coding/Web/dramaGeneratorFrontend1633726076729796191 1
 86/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/lodash/fp/isUndefined.js1630377297249000000 0
 92/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/core-js/stable/symbol/match.js1633482221651999000 0
 100/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/caniuse-lite/dist/unpacker/browsers.js1633631745803999000 0
@@ -9009,7 +8999,7 @@
 87/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/core-js/modules/es.set.js1633482221651999000 0
 83/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/lodash/_hasUnicode.js1630377297249000000 0
 87/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/domhandler/lib/index.d.ts1633482222802000000 0
-72/home/ruthenic/Coding/Web/dramaGeneratorFrontend/dist/index.70740ffc.css1633653749763016645 0
+72/home/ruthenic/Coding/Web/dramaGeneratorFrontend/dist/index.70740ffc.css1633726076745796334 0
 80/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/uncss/src/jsdom.js1633482222049999000 0
 68/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/md5.js1633631747240129776 1
 104/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/@popperjs/core/lib/utils/getAltLen.js.flow1633482217977999000 0
@@ -11246,7 +11236,6 @@
 79/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/js-tokens/LICENSE1633482224223000000 0
 106/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/jsdom/lib/jsdom/living/generated/SVGTests.js1633482222773000000 0
 112/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/core-js/internals/object-get-own-property-names.js1633482221651999000 0
-88/home/ruthenic/Coding/Web/dramaGeneratorFrontend/dist/dramaGeneratorFrontend.94e89cdd.js1633647892891298031 0
 92/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/@babel/types/lib/builders/flow1633631747792127305 1
 89/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/@parcel/utils/lib/stream.js1633482218936000000 0
 82/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/run-parallel/LICENSE1630377300802000000 0
@@ -12910,7 +12899,7 @@
 109/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/postcss-ordered-values/dist/rules/transition.js1633482223227999000 0
 88/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/resolve-url/resolve-url.js1633482219994999000 0
 95/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/jsdom/lib/jsdom/living/webstorage1633631747838127099 1
-63/home/ruthenic/Coding/Web/dramaGeneratorFrontend/src/index.html1633653782986811921 0
+63/home/ruthenic/Coding/Web/dramaGeneratorFrontend/src/index.html1633726971398769543 0
 116/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/jsdom/lib/jsdom/living/events/CompositionEvent-impl.js1633482222773000000 0
 90/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/core-js/es/symbol/replace.js1633482221651999000 0
 110/home/ruthenic/Coding/Web/dramaGeneratorFrontend/node_modules/jsdom/lib/jsdom/living/events/CloseEvent-impl.js1633482222773000000 0
