@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+    @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
+    body {
+      background-color: #333333;
+    }
+    .cool {
+      justify-content: center;
+    }
+    p {
+      font-family: 'IBM Plex Mono', monospace;
+      margin-top: 3rem;
+      font-weight: bold;
+      text-align: center;
+      font-size: 2rem;
+    }
+    button {
+      margin-right: 1rem;
+    }
+    </style>
+    <title>dramaGenerator</title>
+  </head>
+  <body class="text-light container">
+    <script src="./index.js" type="module"></script>
+    <script>
+      window.community = 'discord'
+      let generate = async () => {
+        let community = window.community;
+        let response = await fetch('https://dramageneratorbackend.herokuapp.com/api/generate', {
+          method: "post",
+          body: JSON.stringify({
+            community: window.community
+          })
+        });
+        let data = await response.json();
+        console.log(data);
+        document.getElementById('drama').innerHTML = data.phrase;
+      }
+    </script>
+    <div class="d-flex cool">
+      <p id="drama" onload="generate()">Thomiz forks Powercord into Cutthecord, causing Bowser to rage quit modding.</p>
+    </div>
+    <div class="d-flex cool">
+      <button class="btn btn-primary" onclick="generate()">Generate</button>
+      <div class="dropdown">
+        <button class="btn btn-secondary dropdown-toggle" type="button" id="communityDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+          Discord
+        </button>
+        <ul class="dropdown-menu" aria-labelledby="communityDropdown">
+          <li><a class="dropdown-item" href="#" onclick="window.community = 'discord';document.getElementById('communityDropdown').innerHTML = this.innerHTML">Discord</a></li>
+          <li><a class="dropdown-item" href="#" onclick="window.community = 'logicWorld';document.getElementById('communityDropdown').innerHTML = this.innerHTML">Logic World</a></li>
+          <li><a class="dropdown-item" href="#" onclick="window.community = 'iris';document.getElementById('communityDropdown').innerHTML = this.innerHTML">Iris</a></li>
+        </ul>
+        <!--ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+          <li><a class="dropdown-item" href="#">Action</a></li>
+          <li><a class="dropdown-item" href="#">Another action</a></li>
+          <li><a class="dropdown-item" href="#">Something else here</a></li>
+        </ul>-->
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,16 @@
+{
+  "name": "dramageneratorfrontend",
+  "version": "1.0.0",
+  "author": "Ruthenic <mdrakea3@tutanota.com>",
+  "license": "BSD-3-Clause",
+  "scripts": {
+    "dev": "parcel ./src/*.html",
+    "build": "parcel build --public-url ./ ./src/*.html --dist-dir build",
+    "host": "http-server --port 1234 build"
+  },
+  "devDependencies": {
+    "@popperjs/core": "^2.10.2",
+    "bootstrap": "^5.1.2",
+    "parcel": "^2.0.0-rc.0"
+  }
+}
